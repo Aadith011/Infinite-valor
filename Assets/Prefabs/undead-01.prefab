@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingOrder: 2
   m_Sprite: {fileID: 2140482834, guid: bae443e8e585b034190965012aea36cf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.4, y: 0.54}
@@ -114,7 +114,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &2117157284319253585
 BoxCollider2D:
   m_ObjectHideFlags: 0
