@@ -892,6 +892,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: undead-01
       objectReference: {fileID: 0}
+    - target: {fileID: 2117157284319253585, guid: ae1e1bcb7da3cf445b169fcd0aec063c, type: 3}
+      propertyPath: m_Size.x
+      value: 0.2943728
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117157284319253585, guid: ae1e1bcb7da3cf445b169fcd0aec063c, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.004120469
+      objectReference: {fileID: 0}
     - target: {fileID: 4564294787467728820, guid: ae1e1bcb7da3cf445b169fcd0aec063c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.59
