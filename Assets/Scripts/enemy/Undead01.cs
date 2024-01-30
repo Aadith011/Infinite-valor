@@ -11,7 +11,7 @@ public class Undead01 : MonoBehaviour
     void Awake(){
         charBody = GetComponent<Rigidbody2D>();
 
-        speed = 5;
+        //speed = 5;
     }
     // Start is called before the first frame update
     void Start()
